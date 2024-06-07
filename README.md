@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Tech related people.
 - 🤔 I’m looking for help with creating an own AI.
 - 💬 Ask me about Low Code Development & Some tech tricks.
-- 📫 How to reach me: sriramsri230@gmai.com
+- 📫 How to reach me: sriramsri230@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't like to code...
 
