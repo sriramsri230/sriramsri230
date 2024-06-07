@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I don't like to code...
 
 ## Skills
-- **Programming Languages**: Python, Java
+- **Programming Languages**: Python, Java, PHP
 - **Frameworks**: Learning
 - **Tools**: Git
 
