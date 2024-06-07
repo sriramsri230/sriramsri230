@@ -1,8 +1,8 @@
 # Hello, I'm Sriram S 👋
 
 ## About Me
-- 🔭 I’m currently working on Wordpress.
-- 🌱 I’m currently learning Python.
+- 🔭 I’m currently working in Grafikos Designs.
+- 🌱 I’m currently learning Python backend development.
 - 👯 I’m looking to collaborate on Tech related people.
 - 🤔 I’m looking for help with creating an own AI.
 - 💬 Ask me about Low Code Development & Some tech tricks.
