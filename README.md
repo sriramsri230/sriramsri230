@@ -4,7 +4,7 @@
 - 🔭 I’m currently working in Grafikos Designs as Junior Wordpress Developer.
 - 🌱 I’m currently learning Python backend development.
 - 👯 I’m looking to collaborate on Tech related people.
-- 🤔 I’m looking for help with creating an own AI.
+- 🤔 I’m looking for help with creating projects using AI's.
 - 💬 Ask me about Low Code Development & Some tech tricks.
 - 📫 How to reach me: sriramsri230@gmail.com
 - 😄 Pronouns: He/Him
