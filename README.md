@@ -13,7 +13,6 @@
 ## Skills
 - **Programming Languages**: Python, Java, PHP
 - **AI Tools**: ChatGpt, Claude, Gemini, Microsoft Copilot.
-- **Frameworks**: Learning
 - **Tools**: Git
 
 ## Projects
