@@ -8,10 +8,11 @@
 - 💬 Ask me about Low Code Development & Some tech tricks.
 - 📫 How to reach me: sriramsri230@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I don't like to code...
+- ⚡ Fun fact: I don't like to code...My Top Tool -- Copy & Paste
 
 ## Skills
 - **Programming Languages**: Python, Java, PHP
+- **AI Tools**: ChatGpt, Claude, Gemini, Microsoft Copilot.
 - **Frameworks**: Learning
 - **Tools**: Git
 
