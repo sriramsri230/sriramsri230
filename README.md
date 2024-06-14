@@ -16,7 +16,10 @@
 - **Tools**: Git
 
 ## Projects
-- Weather App  https://github.com/sriramsri230/WeatherApp - This app fetches images from IMD and displays in our App,
+- Weather App  https://github.com/sriramsri230/WeatherApp - This app fetches images from IMD and displays in our App.
+  **Live Preview** : https://sourceforge.net/projects/weatherapp/
+- Excel Compare https://github.com/sriramsri230/xlsCompare - This webapplication is used to compare two excel files and displays the matched rows.
+  **Live Preview** : https://sriramsri230.pythonanywhere.com/
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sriramsri230&show_icons=true&theme=radical)
